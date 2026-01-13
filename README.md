@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I’m Jeswin, 22 year-old. <br><br>Recent graduate with a degree in electronics and computer science, with a passion for building innovative products. Enjoy conducting market research, analyzing user data, and collaborating with cross-functional teams. Interested in building products and data-driven decision making.<br><br><br>- 🔭 I’m working as Lead Technical and Innovation officer<br><br>- 📚 I'm currently learning Business Analytics<br><br>- ⚡ In my free time, I am also into music, videography and overthinking . Hha ha :)</p>
+<p align="left">I’m Jeswin, 22 year-old. <br><br>Recent graduate with a bachelors degree of technology in electronics and computer engineering, with a passion for building innovative products. Enjoy conducting market research, analyzing user data, and collaborating with cross-functional teams. Interested in building products and data-driven decision making.<br><br><br>- 🔭 I’m working as Lead Technical and Innovation officer<br><br>- 📚 I'm currently learning Business Analytics<br><br>- ⚡ In my free time, I am also into music, videography and overthinking . Hha ha :)</p>
 
 ###
 
