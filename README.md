@@ -135,7 +135,6 @@ Bengaluru / Mumbai · Actively applying<br>
 **Stack:** Figma · Design Systems · UX Research  
 
 ---
----
 
 <!-- ════════════════════════════════════════════ -->
 <!--           💼  EXPERIENCE TIMELINE           -->
@@ -309,7 +308,6 @@ Bengaluru / Mumbai · Actively applying<br>
 
 </div>
 
----
 
 <!-- ── FOOTER WAVE ── -->
 <div align="center">
