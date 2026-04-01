@@ -296,7 +296,7 @@ Bengaluru / Mumbai · Actively applying<br>
 > _Set up the snake workflow:_ [→ See setup guide](https://github.com/Platane/snk)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JeswinJestin/JeswinJestin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JeswinJestin/JeswinJestin/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 > **To enable**: Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo — it auto-generates the snake SVG on a schedule.
