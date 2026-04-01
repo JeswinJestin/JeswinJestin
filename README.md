@@ -258,10 +258,6 @@ Bengaluru / Mumbai · Actively applying<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeswinJestin&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=D4A853&icon_color=D4A853&text_color=cccccc&border_color=333333&hide_border=false&rank_icon=github&include_all_commits=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeswinJestin&layout=compact&theme=dark&bg_color=0a0a0a&title_color=D4A853&text_color=cccccc&border_color=333333&hide_border=false&langs_count=8" height="165" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=JeswinJestin&locale=en&mode=daily&theme=dark&background=0a0a0a&ring=D4A853&fire=D4A853&currStreakLabel=D4A853&sideLabels=888888&border=333333&hide_border=false&border_radius=5" height="195" />
@@ -275,17 +271,6 @@ Bengaluru / Mumbai · Actively applying<br>
 
 ---
 
-<!-- ════════════════════════════════════════════ -->
-<!--           🏆  GITHUB TROPHIES               -->
-<!-- ════════════════════════════════════════════ -->
-
-## &nbsp;🏆 &nbsp;TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeswinJestin&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Commits,Repositories,PullRequest,Followers,Reviews,Issues" />
-</div>
-
----
 
 <!-- ════════════════════════════════════════════ -->
 <!--        🐍  CONTRIBUTION SNAKE               -->
@@ -293,13 +278,13 @@ Bengaluru / Mumbai · Actively applying<br>
 
 ## &nbsp;🐍 &nbsp;CONTRIBUTION SNAKE
 
-> _Set up the snake workflow:_ [→ See setup guide](https://github.com/Platane/snk)
+<!-- This is a comment > _Set up the snake workflow:_ [→ See setup guide](https://github.com/Platane/snk) -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeswinJestin/JeswinJestin/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> **To enable**: Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo — it auto-generates the snake SVG on a schedule.
+<!-- > **To enable**: Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo — it auto-generates the snake SVG on a schedule. -->
 
 ---
 
