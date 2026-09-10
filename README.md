@@ -9,7 +9,7 @@
 
 <!-- ── ANIMATED ROLE CYCLE ── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1200&color=D4A853&center=true&vCenter=true&width=700&lines=PM+Candidate+%7C+Aspiring+Founder;Shipped+Live+Products+at+Early-Stage+Startups;UI%2FUX+%7C+Product+Strategy+%7C+Growth;ECE+Graduate+Who+Thinks+in+User+Stories;Currently+Building+the+Next+Thing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1200&color=D4A853&center=true&vCenter=true&width=700&lines=Product+Management+Intern+%40+Kuku;Shipped+Live+Products+at+Early-Stage+Startups;UI%2FUX+%7C+Product+Strategy+%7C+Growth;ECE+Graduate+Who+Thinks+in+User+Stories;Built+%26+Open-Sourced+AuraScribe+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <!-- ── SOCIAL BADGES ── -->
@@ -61,20 +61,20 @@ Minor: Robotics & Automation · SJCET Palai · KTU<br>
 
 `🏗 SHIPPED`
 
-**2 live products** — no PM above me<br>
+**3 live products, including 1 open-source**<br>
 UX Research → Figma → Code → Launch → Iterate<br>
-<sub>End-to-end ownership at two early-stage startups</sub>
+<sub>End-to-end ownership, no PM above me</sub>
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-`🚀 OPEN TO WORK`
+`💼 CURRENT ROLE`
 
-**PM Intern · APM · AI PM · Growth PM**<br>
-Bengaluru / Mumbai · Actively applying<br>
-<sub>Built for fast-moving, user-obsessed teams</sub>
+**Product Management Intern · Kuku**<br>
+Sep 2026 – Present<br>
+<sub>Previously: Founder's Office Intern @ SecureMojo</sub>
 
 </td>
 <td valign="top">
@@ -115,24 +115,26 @@ Bengaluru / Mumbai · Actively applying<br>
 ---
 
 <!-- ════════════════════════════════════════════ -->
-<!--          🚧  CURRENTLY SHIPPING             -->
+<!--          🎙️  FLAGSHIP SHIP                  -->
 <!-- ════════════════════════════════════════════ -->
 
-## 🚧 CURRENTLY BUILDING
+## 🎙️ FLAGSHIP SHIP: AURASCRIBE
 
 <div align="left">
 
-### 🫀 REVIVE  
-**Cardiac Health Monitoring Ecosystem**
+### AuraScribe — Offline Voice Dictation, Built From Scratch
 
 </div>
 
-- Wearable-first companion app  
-- Luxury minimalist UX system  
-- Full onboarding + behavioral design  
-- 15+ production-ready screens  
+- Free, open-source, privacy-first alternative to Wispr Flow / Superwhisper — audio never leaves your machine, zero telemetry
+- Multi-engine ASR architecture: Moonshine (English), AI4Bharat IndicConformer (Malayalam, Kannada), Parakeet & Dolphin — 65+ languages total
+- Published a Malayalam ASR model to Hugging Face, adopted by the sherpa-onnx community
+- **v2.0.0** — first cross-platform release: Windows (stable), macOS & Linux (preview)
+- Global hotkey activation, on-device punctuation/casing cleanup, usage history with heatmaps, MIT licensed
 
-**Stack:** Figma · Design Systems · UX Research  
+**Stack:** Rust (Tauri) · React / Next.js · sherpa-onnx · cpal · sqlx
+
+[![GitHub](https://img.shields.io/badge/GitHub-AuraScribe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeswinJestin/AuraScribe)
 
 ---
 
@@ -143,6 +145,26 @@ Bengaluru / Mumbai · Actively applying<br>
 ## &nbsp;💼 &nbsp;EXPERIENCE
 
 <details open>
+<summary><b>📋 Product Management Intern</b> &nbsp;·&nbsp; Kuku &nbsp;·&nbsp; <code>Sep 2026 – Present</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;↳ &nbsp;Just joined — ramping up on product processes, team workflows, and current roadmap<br>
+&nbsp;&nbsp;&nbsp;↳ &nbsp;One week in as of this update
+
+<br>
+</details>
+
+<details>
+<summary><b>🔐 Founder's Office Intern</b> &nbsp;·&nbsp; SecureMojo &nbsp;·&nbsp; <code>Jun 2026 – Aug 2026</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;↳ &nbsp;Worked directly with the founder at an early-stage cybersecurity startup<br>
+&nbsp;&nbsp;&nbsp;↳ &nbsp;Specifics confidential per company policy
+
+<br>
+</details>
+
+<details>
 <summary><b>📦 Product &amp; Growth Lead (Intern) — Full Time</b> &nbsp;·&nbsp; Royal Edu Hub &nbsp;·&nbsp; <code>May 2025 – Jan 2026</code></summary>
 <br>
 
@@ -190,9 +212,10 @@ Bengaluru / Mumbai · Actively applying<br>
 
 | | Project | Stack | Highlight |
 |:--|:--|:--|:--|
+| 🎙️ | **AuraScribe** — Offline Voice Dictation (Open Source) | Rust · Tauri · React/Next.js · sherpa-onnx | v2.0.0 · Malayalam ASR model on Hugging Face · Win/Mac/Linux |
 | 🏥 | **MediConnect** — Unified AI Health Platform | React · React Native · Firebase · Hugging Face | Published @ NCIPETC-25 · 30% diagnosis efficiency gain |
 | 📈 | **Onset** — Retail Investment Platform (Case Study) | Figma · Canva · JTBD Framework | 3 investor personas · 8-screen Figma journey · 500+ fund → curated shortlist |
-| 🫀 | **Revive** — Cardiac Health App (UI/UX) | Figma · Design Systems | 15+ screens · luxury minimalist design system · full onboarding flow |
+| 🫀 | **Revive** — Cardiac Health App (UI/UX) | Figma · Design Systems | Design complete — 15+ screens · luxury minimalist design system · full onboarding flow |
 | 🍽 | **AutoDine** — IoT Restaurant Menu System | ESP32 · IoT | 40% faster order processing · reduced order errors |
 | ✍️ | **CNC Pen Plotter** — Handwriting Replication | IoT · Hardware · Cross-functional | 90% drawing precision · 60% handwriting accuracy |
 
@@ -220,7 +243,7 @@ Bengaluru / Mumbai · Actively applying<br>
 ### &nbsp;Design & Dev
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,react,firebase,python,mysql,git,arduino,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,react,firebase,python,mysql,git,arduino,nodejs,rust&theme=dark" />
 </div>
 
 ### &nbsp;Product Tools
@@ -295,8 +318,8 @@ Bengaluru / Mumbai · Actively applying<br>
 
 <div align="center">
 
-**I'm actively looking for PM Intern · APM · AI PM · Growth PM roles.**
-**Open to Bengaluru & Mumbai. Built for fast-moving, user-obsessed teams.**
+**Currently interning as a Product Management Intern at Kuku.**
+**Always happy to connect and talk product, design, or open source.**
 
 <br/>
 
